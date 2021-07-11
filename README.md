@@ -1,7 +1,7 @@
 Repository of Voron 2.4 build equipped with Galileo Z Gearboxes and Galileo Extruder
 Please mind this is a WIP and the STL(s) are beeing updated
 
-The CAD is too large so i uploaded it here
+The CAD is too large so i uploaded it here (lates update 11st July 2021)
 https://drive.google.com/drive/folders/1DQNbAXy60l3uwEx9qxdZTg94INP0bn9f?usp=sharing
 
 **Elecronics :**
