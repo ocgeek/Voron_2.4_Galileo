@@ -6,8 +6,7 @@ Repository of Voron 2.4 build equipped with Galileo Z Gearboxes and Galileo Extr
 - Duet 1LC Toolboard 1.1
 
 **Z Gearbox** BOM (to be updated)
-
-Quantity is for ONE (1) Gearbox
+_Quantity is for ONE (1) Gearbox_
 - 10T metal Spur Gear x1 - <<https://www.aliexpress.com/item/4000299898525.html>>
 - 5x4mm Heatsets x8 (Voron BOM)
 - 16T "Prusa Stile" Pulley H=6mm (smaller than POWGE) x1 - <<https://www.amazon.com/gp/product/B07DBN8KFT>>
