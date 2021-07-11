@@ -1,6 +1,10 @@
-Repository of Voron 2.4 build equipped with Galileo Z Gearboxes and Galileo Extruder
 Please mind this is a WIP and the STL(s) are beeing updated
 The source components are from the great project of **JaredC01** (see Voron Discord)
+
+You can reach out in Voron Discord i'm **oc_geek V2.1064**
+
+This is goint to be my second Voron 2.4 build 
+and il will be equipped with Galileo Z Gearboxes and Galileo Extruder (and few other mods :-) ) 
 
 I made some chages to his design (was tailored for Voron 2.2 in ~ 2020)
 - Fixed the hole height of M5x40 screw to grab 5mm on the M5 post insert nut
