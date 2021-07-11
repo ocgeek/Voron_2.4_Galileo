@@ -18,3 +18,6 @@ _Quantity is for ONE (1) Gearbox_
 - M3x18mm SHCS screws x4 (connect stepper)
 - M3x12mm SHCS screws x4 (gear shelves)
 - M3x??mm SHCS screws x4 (connect Mount to shelves)
+
+![image](https://user-images.githubusercontent.com/76037248/125197641-d5ff1780-e25e-11eb-9f1c-6b353727444d.png)
+![image](https://user-images.githubusercontent.com/76037248/125197650-ddbebc00-e25e-11eb-9f4b-6601d3c0f62b.png)
