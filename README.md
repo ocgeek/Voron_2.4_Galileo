@@ -14,7 +14,7 @@ _Quantity is for ONE (1) Gearbox_
 - F695 2RS Bearing x4 (Carrier and Gearbox)
 - F625 2RS Bearing x1 (Mount)
 - M5x16mm BHCS screws x3
-- M4x40mm SHCS srew x1
+- M5x40mm SHCS srew x1
 - M3x18mm SHCS screws x4 (connect stepper)
 - M3x12mm SHCS screws x4 (gear shelves)
 - M3x??mm SHCS screws x4 (connect Mount to shelves)
