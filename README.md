@@ -23,5 +23,10 @@ _Quantity is for ONE (1) Gearbox_
 - M3x12mm SHCS screws x4 (to close the gear Shelves)
 - M3x20mm SHCS screws x4 (connect Mount to gear Front Housing)
 
+These are the GearBoxes mounted 
+![image](https://user-images.githubusercontent.com/76037248/125200150-eff22780-e269-11eb-85b3-807b5a5e1603.png)
+
+This is the model i developed in Fusion 360 for the Skirts
+
 ![image](https://user-images.githubusercontent.com/76037248/125197641-d5ff1780-e25e-11eb-9f1c-6b353727444d.png)
 ![image](https://user-images.githubusercontent.com/76037248/125197650-ddbebc00-e25e-11eb-9f4b-6601d3c0f62b.png)
