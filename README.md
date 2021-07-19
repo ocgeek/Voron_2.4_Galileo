@@ -44,7 +44,7 @@ These are the GearBoxes mounted
 I modified the spacer so that it hooks onto the frame and sustains the Stepper weight. Also it sists in the center of mass of the assembly
 ![image](https://user-images.githubusercontent.com/76037248/125200206-42cbdf00-e26a-11eb-9690-d2a79d3ae327.png)
 
-I made a talled Mount (foot) more suited to the Voron 2.4
+I amended the Mount (foot) to be 10mm taller and better suited to the Voron 2.4 (the change does not change the belt lenghts) 
 ![image](https://user-images.githubusercontent.com/76037248/125200221-56774580-e26a-11eb-8fd4-dabff086de4f.png)
 
 ![image](https://user-images.githubusercontent.com/76037248/125197641-d5ff1780-e25e-11eb-9f1c-6b353727444d.png)
