@@ -14,8 +14,8 @@ I made some chages to his design (was tailored for Voron 2.2 in ~ 2020)
 - Stepper Spacer has now a hook (with M5x20 BH) to the inner frame extrusion so stepper Motor weight does not load on Gearbox. A hole for the M3 pass through screw has been added to the spacer for mounting the Gearbox shelve
 - Added skirts for V2.4 300mm including a rotating gear (pressure) mounted on the D-Shaft protruding out of Mount front (~ 3mm)
 
-I developed all those changes in Fusion 360
-The CAD file is too large so i uploaded it on Google Drive (lates update 11st July 2021)
+I developed all those changes in **Fusion 360**
+The **CAD file** is too large so i uploaded it on Google Drive (lates update 11st July 2021)
 https://drive.google.com/drive/folders/1DQNbAXy60l3uwEx9qxdZTg94INP0bn9f?usp=sharing
 
 **Elecronics :**
