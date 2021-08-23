@@ -34,18 +34,29 @@ _Quantity is for ONE (1) Gearbox_
 - M3x20mm SHCS screws x4 (connect Mount to gear Front Housing)
 
 These are the assembled GearBoxes
+
 ![image](https://user-images.githubusercontent.com/76037248/125200150-eff22780-e269-11eb-85b3-807b5a5e1603.png)
 
 I modified the spacer so that it hooks onto the frame and sustains the Stepper weight. 
 Also it sists in the center of mass of the assembly
 This is reccomended works very well
+
 ![image](https://user-images.githubusercontent.com/76037248/125200206-42cbdf00-e26a-11eb-9690-d2a79d3ae327.png)
 
 I amended the Mount (foot) to be 10mm taller and better suited to the Voron 2.4 (the change does not change the belt lenghts) 
+
 ![image](https://user-images.githubusercontent.com/76037248/125200221-56774580-e26a-11eb-8fd4-dabff086de4f.png)
 
 ![image](https://user-images.githubusercontent.com/76037248/125197641-d5ff1780-e25e-11eb-9f1c-6b353727444d.png)
+
 ![image](https://user-images.githubusercontent.com/76037248/125197650-ddbebc00-e25e-11eb-9f4b-6601d3c0f62b.png)
+
+![IMG_20210810_165939](https://user-images.githubusercontent.com/76037248/130490119-4ad001e6-39cc-45e0-86db-aeb21689f9a6.jpg)
+
+![IMG_20210814_064714 (1)](https://user-images.githubusercontent.com/76037248/130490158-3c083f67-136f-455f-872a-24abb6e97e01.jpg)
+
+![IMG_20210814_100610](https://user-images.githubusercontent.com/76037248/130490170-ab85e14c-1111-4b2c-9ca7-47625fba2b5a.jpg)
+
 
 **This is a list of what i ended up installing in this build :)**
 
