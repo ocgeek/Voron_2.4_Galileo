@@ -33,10 +33,12 @@ _Quantity is for ONE (1) Gearbox_
 - M3x12mm SHCS screws x4 (to close the gear Shelves)
 - M3x20mm SHCS screws x4 (connect Mount to gear Front Housing)
 
-These are the GearBoxes mounted 
+These are the assembled GearBoxes
 ![image](https://user-images.githubusercontent.com/76037248/125200150-eff22780-e269-11eb-85b3-807b5a5e1603.png)
 
-I modified the spacer so that it hooks onto the frame and sustains the Stepper weight. Also it sists in the center of mass of the assembly
+I modified the spacer so that it hooks onto the frame and sustains the Stepper weight. 
+Also it sists in the center of mass of the assembly
+This is reccomended works very well
 ![image](https://user-images.githubusercontent.com/76037248/125200206-42cbdf00-e26a-11eb-9690-d2a79d3ae327.png)
 
 I amended the Mount (foot) to be 10mm taller and better suited to the Voron 2.4 (the change does not change the belt lenghts) 
