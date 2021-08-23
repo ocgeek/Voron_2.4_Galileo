@@ -18,11 +18,6 @@ I developed all those changes in **Fusion 360**
 The **CAD file** is too large so i uploaded it on Google Drive (lates update 11st July 2021)
 https://drive.google.com/drive/folders/1DQNbAXy60l3uwEx9qxdZTg94INP0bn9f?usp=sharing
 
-**Elecronics :**
-- Duet Mini 5+
-- Duet Mini 2+
-- Duet 1LC Toolboard 1.1
-
 **Z Gearbox** BOM
 _Quantity is for ONE (1) Gearbox_
 - 10T metal Spur Gear x1 - <<https://www.aliexpress.com/item/4000299898525.html>>
