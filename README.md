@@ -49,3 +49,48 @@ I amended the Mount (foot) to be 10mm taller and better suited to the Voron 2.4 
 
 ![image](https://user-images.githubusercontent.com/76037248/125197641-d5ff1780-e25e-11eb-9f1c-6b353727444d.png)
 ![image](https://user-images.githubusercontent.com/76037248/125197650-ddbebc00-e25e-11eb-9f4b-6601d3c0f62b.png)
+
+**This is a list of what i ended up installing in this build :)**
+
+**Frame and Panels:**
+- 4mm thick polycarbonate panels (including the bottom deck to view through the electronics)
+- Doors with hinges
+- Handles 2x on top and 2x at bottom sides (it's 50Kg this thing...)
+
+**Control Electronics and cabling**
+- Duet Mini 5+ Wifi
+- Duet 2+ expansion (to reach 7 drivers)
+- Prepared for an additional Duet 5+ (not yet installed for ERCF MMU unit - future) via FD-CAN bus
+- Duet Tool Board 1LC (v1.1 with included accelerometer) mounted on the tool head side and connected via FD-CAN bus
+- Heluflon FEP wires (AWG 18, 20, 24)
+- MDPC-X sleeve (used out of the chains)
+- Wago 221 connectors
+- Chamber temp / humidity sensor (DHT21)
+- Ambient temp thermistor
+- Various cable management brackets (made in Fusion360) and cables routing guide out of the cables hole in the back
+
+**Mechanics and movement:**
+- OMC Steppers-online motors
+- 1.8* on Z axis (4)
+- 0.9* on X-Y axis (2)
+- LDO pancake for Galileo Clockwork Extruder
+- Galileo gear-boxes for Z movement (required redesign of the entire skirts)
+- Galileo Clockwork (Coupler Edition) for Extruder
+- MGN-12 single rail on X axis
+- AB-BN 30 tool body with 5015 work cooling fan
+- Hall effect end stops for X/Y
+- MGC5 spherical Z joints
+- Klicky probe (instead of the inductive Z sensor) for bed leveling and final Z0 setting
+- Pin mod on all bearings / idlers (5mm pins replace M5 screws - requires specific printed parts)
+
+**Air Filtering**
+- Nevermore Micro recirculating active carbon filter (dual 5015 fan located under the heated bed; also serves as quick chamber heat distribution in the pre-print phase)
+
+**Lights:**
+- WS2811 (aka neopixel) addressable LED strips with controllable brightness and color for each LED on each strip
+- 15 LEDs on front, 18 LEDs each side top
+
+**Others:**
+- Purge bucket with scrub
+- Align stands for the steel flex plate (two embedded in the Purge bucket body)
+
