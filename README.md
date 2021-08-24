@@ -1,7 +1,7 @@
 Please mind this is a WIP and the STL(s) are beeing updated
 The source components are from the great project of **JaredC01** (see Voron Discord)
 
-You can reach out in Voron Discord i'm **oc_geek V2.1064**
+You can reach out in Voron Discord i'm **oc_geek V2.1064 V2.1820**
 
 This is goint to be my second Voron 2.4 build 
 and il will be equipped with Galileo Z Gearboxes and Galileo Extruder (and few other mods :-) ) 
