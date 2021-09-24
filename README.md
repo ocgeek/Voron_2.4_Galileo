@@ -1,5 +1,7 @@
 Please mind this is a WIP and the STL(s) are beeing updated
-The source components are from the great project of **JaredC01** (see Voron Discord)
+The source components are from the great **project and design** of **JaredC01** (see Voron Discord)
+
+Mind that these components are by design of the author a TIGHT FIT (some pushing of bearings is expected).
 
 You can reach out in Voron Discord i'm **oc_geek V2.1064 V2.1820**
 
