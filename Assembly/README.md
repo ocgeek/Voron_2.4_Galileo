@@ -28,10 +28,11 @@ with a decise fingers squueze and those firmly remain in place. If those are eit
 
 - Bearings in the front mount. I do press these in place with an M10 long allen key (a washer helps) and wait my body over the large key pushing along the perimeter. After some convincing it gets in (and wont fall out / move ever)
 
-![image](https://user-images.githubusercontent.com/76037248/136102928-f7a61eff-4784-4db2-bd1a-07181530acbb.png)
-![image](https://user-images.githubusercontent.com/76037248/136101205-216188d6-5d56-4203-8f83-6138a3a105cd.png)
+![image](https://user-images.githubusercontent.com/76037248/136103392-ac5e8983-691e-4e13-8ccd-bb22ac35fbca.png)
 
 - Bearing in the Z-drive case need some filing around the hole seam (it sits along the middle of the hole). After that is out of the way (cleareance is very tight) i use the same procedure as above (allen key / washer)
+
+![image](https://user-images.githubusercontent.com/76037248/136101205-216188d6-5d56-4203-8f83-6138a3a105cd.png)
 
 4. The Carriage GT2 pulley...yeah that one need definetly pressure...lot of it. I use a vise and once it is aligned properly i close it in. I remove some of the plastic which will form on the other end (at the top of the pulley exit) with a nail. It works well
 
