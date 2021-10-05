@@ -50,9 +50,13 @@ Grease everitihg at your preference (i use just a smear of grease as you may not
 
 7. Assemble the Z-Gear to the front mount
 
-
 That's about it
 
-Enjoy
+When it is assembled you shall see no gaps between parts and the Z-Belt pulley shall have an hair of a gap to the Mount bearing. If so you did well 
+
+![image](https://user-images.githubusercontent.com/76037248/136103967-19f98937-c79a-4c0d-96f6-6687a624fa21.png)
+
+
+Enjoy the Planetary gears !
 
 (i hope the above was of any help)
