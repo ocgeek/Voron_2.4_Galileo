@@ -38,7 +38,7 @@ _Quantity is for ONE (1) Gearbox_
 - M3x12mm SHCS screws x4 (to close the gear Shelves)
 - M3x20mm SHCS screws x4 (connect Mount to gear Front Housing)
 
-See in the **Assembly folder** there are some notes on how i did pu these things together :)
+See in the **Assembly folder** there are some notes on how i did put these things together :)
 
 These are the assembled GearBoxes
 
