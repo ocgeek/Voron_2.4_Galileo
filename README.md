@@ -1,6 +1,6 @@
 **Galileo Clockwork**
 
-Please go to the original repo for Clockwork (as it is actively maintened there)
+Please go to the original repository for Galileo Clockwork (as it is actively maintened there)
 https://github.com/JaredC01/Galileo
  
  
