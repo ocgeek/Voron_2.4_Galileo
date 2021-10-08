@@ -1,4 +1,10 @@
-Please mind this is a WIP and the STL(s) are beeing updated
+**Galileo Clockwork**
+
+Please go to the original repo for Clockwork (as it is actively maintened there)
+https://github.com/JaredC01/Galileo
+
+**Galileo driven Z-Drives**
+
 The source components are from the great **project and design** of **JaredC01** (see Voron Discord)
 
 **Mind that these components are by design of the author a TIGHT FIT** 
