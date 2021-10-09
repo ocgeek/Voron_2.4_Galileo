@@ -62,6 +62,8 @@ When it is assembled you shall see no gaps between parts and the Z-Belt pulley s
 
 ![image](https://user-images.githubusercontent.com/76037248/136664222-4cca45d2-53f8-4eb0-9a8a-a70f88109baa.png)
 
+![video](https://photos.google.com/photo/AF1QipPwtH8AXFlnSoTkWD5HYKQ457ngy1NtaixoYcG6)
+
 Enjoy the Planetary gears !
 
 (i hope the above was of any help)
