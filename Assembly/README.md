@@ -26,7 +26,7 @@ with a decise fingers squueze and those firmly remain in place. If those are eit
 
 ![image](https://user-images.githubusercontent.com/76037248/136102864-f1e9fbdf-5ada-4689-80fd-71eee927d7b8.png)
 
-- Bearings in the front mount. I do press these in place with an M10 long allen key (a washer helps) and wait my body over the large key pushing along the perimeter. After some convincing it gets in (and wont fall out / move ever)
+- Bearings in the front mount. I do press these in place with an M10 long allen key (a washer helps) and use the weight of my body over the large key to push along the perimeter of the bearing. After some convincing.. it gets in (and wont fall out or move.. ever)
 
 ![image](https://user-images.githubusercontent.com/76037248/136103392-ac5e8983-691e-4e13-8ccd-bb22ac35fbca.png)
 
