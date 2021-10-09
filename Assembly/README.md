@@ -54,15 +54,21 @@ Grease everitihg at your preference (i use just a smear of grease as you may not
 
 7. Assemble the Z-Gear to the front mount
 
-That's about it
-
 When it is assembled you shall see no gaps between parts and the Z-Belt pulley shall have an hair of a gap to the Mount bearing. If so you did well 
 
 ![image](https://user-images.githubusercontent.com/76037248/136103967-19f98937-c79a-4c0d-96f6-6687a624fa21.png)
 
 ![image](https://user-images.githubusercontent.com/76037248/136664222-4cca45d2-53f8-4eb0-9a8a-a70f88109baa.png)
 
-![video](https://photos.app.goo.gl/5tai2Czo76KNpE869)
+8. Run in
+
+It is IMHO a good idea do perform some time run-in of the gears before going production
+I do that for a few hours with a macro and a custom test config.g that runs the gears at different speeds, positions and so on
+After the run-in period the gears shall be ready to deploy :)
+
+https://user-images.githubusercontent.com/76037248/136664748-7286a03c-4e39-45d8-aa05-b229b414e4f7.mp4
+
+That's about it
 
 Enjoy the Planetary gears !
 
