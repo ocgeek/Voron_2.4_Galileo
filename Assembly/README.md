@@ -30,7 +30,9 @@ with a decise fingers squueze and those firmly remain in place. If those are eit
 
 ![image](https://user-images.githubusercontent.com/76037248/136103392-ac5e8983-691e-4e13-8ccd-bb22ac35fbca.png)
 
-- Bearing in the Z-drive case need some filing around the hole seam (it sits along the middle of the hole). After that is out of the way (cleareance is very tight) i use the same procedure as above (allen key / washer)
+- Bearing in the Z-drive case need some filing around the hole seam (it sits along the middle of the hole). After that is out of the way (cleareance is very tight) i use the same procedure as above (allen key / washer). Once the bearing is in place it shall be almost flush with the case surface
+
+![image](https://user-images.githubusercontent.com/76037248/136664276-ff0ae8c5-f519-413b-9002-b1e7c2721ca8.png)
 
 ![image](https://user-images.githubusercontent.com/76037248/136101205-216188d6-5d56-4203-8f83-6138a3a105cd.png)
 
