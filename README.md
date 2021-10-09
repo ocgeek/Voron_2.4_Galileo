@@ -47,6 +47,8 @@ _Quantity is for ONE (1) Gearbox_
 
 See in the **Assembly folder** there are some notes on how i did put these things together :)
 
+![image](https://user-images.githubusercontent.com/76037248/136663762-35a79e73-ab10-4854-ac85-7c31087a9545.png)
+
 These are the assembled GearBoxes
 
 ![image](https://user-images.githubusercontent.com/76037248/125200150-eff22780-e269-11eb-85b3-807b5a5e1603.png)
