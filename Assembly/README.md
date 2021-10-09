@@ -42,7 +42,9 @@ with a decise fingers squueze and those firmly remain in place. If those are eit
 
 5. Some filing of the shalfts may be involved as always due to pulleys/ bearings / shaft tolerances
 
-Remember the TWO (2) M5 x 1mm Shims one on the inside of the Z-Gear and the other at the ouside before the Z-Belt pulley
+![image](https://user-images.githubusercontent.com/76037248/136664431-2b2cb85a-b0cb-4150-a813-e167d95f832e.png)
+
+Remember the **TWO (2) M5 x 1mm Shims** one on the inside of the Z-Gear and the other at the ouside before the Z-Belt pulley
 Grease everitihg at your preference (i use just a smear of grease as you may notice...)
 
 ![image](https://user-images.githubusercontent.com/76037248/136101390-7c11dc2f-7a10-430d-8fd5-c941b437dd6a.png)
