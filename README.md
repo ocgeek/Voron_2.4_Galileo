@@ -34,7 +34,7 @@ _Quantity is for ONE (1) Gearbox_
 - 10T metal Spur Gear x1 - <<https://www.aliexpress.com/item/4000299898525.html>>
 - 5x4mm Heat inserts x8 (Voron BOM)
 - 60mm Long 5mm OD D-shaft (Voron BOM)
-- 16T "Prusa Stile" Pulley with Base H=6mm (thinner than POWGE) x1 - <<https://www.amazon.com/gp/product/B07DBN8KFT>>
+- 16T "Prusa Stile" Pulley with Base H=6mm (thinner than POWGE) x1 - e.g. <<https://www.amazon.it/gp/product/B07T5CYBJW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1>>
 - 1.0mm shim M5 washers x2 (or 0.5mm if you wanna play finer) 
 - F695 2RS Bearing x4 (Carrier and Gearbox)
 - F625 2RS Bearing x1 (Mount)
