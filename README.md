@@ -38,12 +38,15 @@ _Quantity is for ONE (1) Gearbox_
 - 1.0mm shim M5 washers x2 (or 0.5mm if you wanna play finer) 
 - F695 2RS Bearing x4 (Carrier and Gearbox)
 - F625 2RS Bearing x1 (Mount)
-- M5x16mm BHCS screws x3 (2x Mount, 1x Spacer)
-- M5x16mm BHCS screws x3 (gears to carrier)
-- M5x40mm SHCS screw x1 (Mount)
-- M3x18mm SHCS screws x4 (connect to the Stepper)
 - M3x12mm SHCS screws x4 (to close the gear Shelves)
+- M5x16mm BHCS screws x3 (gears to carrier)
+- M3x18mm SHCS screws x4 (connect to the Stepper)
 - M3x20mm SHCS screws x4 (connect Mount to gear Front Housing)
+
+Mounting a Z-Drive to the frame requires:
+- M5x40mm SHCS screw x1 (Mount to Frame)
+- M5x16mm BHCS screws x3 (Mount to Frame)
+- M5x20mm BHCS screws x1 (Spacer to Frame)
 
 See in the **Assembly folder** there are some notes on how i did put these things together :)
 
