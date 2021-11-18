@@ -36,12 +36,15 @@ with a decise fingers squueze and those firmly remain in place. If those are eit
 
 ![image](https://user-images.githubusercontent.com/76037248/136101205-216188d6-5d56-4203-8f83-6138a3a105cd.png)
 
-4. The Carriage GT2 pulley (de flanged) ...yeah that one need definetly pressure...lot of it. 
+4. The Carriage GT2 pulley (de flanged) ...yeah that one need definetly pressure...lot of it.
 I use a vise as a press
-Align the pulley grooves with the pulley hole grooves of the cerrier, use a large and tall (e.g. M10) nut as a standoff on the other side of the pulley hole (the carrier bearing holders shall not be pressed by any means)
-The vide shall press the Nut against the carrier center and the pulley at the other end
-Close the vise carefully chacking alignment in the process. 
-I remove some of the plastic which will form on the other end (at the top of the pulley exit) with a nail. It works well
+- Align the pulley grooves with the pulley hole grooves of the carrier
+- Use a large and tall (e.g. M10) nut as a standoff on the other side of the pulley hole (the carrier bearing holders shall not be pressed by any means)
+
+The vise shall press the standoff Nut against the carrier center and the Pulley top at the other end
+Close the vise carefully checking proper alignment in the process.
+
+I finally remove some of the plastic which will form on the other end (at the top of the pulley exit) with a nail. It works well
 
 ![image](https://user-images.githubusercontent.com/76037248/136101160-48cc6d91-4584-4cc5-961d-c700703efca2.png)
 
