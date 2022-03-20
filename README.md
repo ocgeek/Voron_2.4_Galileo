@@ -44,9 +44,9 @@ _Quantity is for ONE (1) Gearbox_
 - M3x20mm SHCS screws x4 (connect Mount to gear Front Housing)
 
 Mounting a Z-Drive to the frame requires:
-- M5x40mm SHCS screw x1 (Mount to Frame)
-- M5x16mm BHCS screws x3 (Mount to Frame)
-- M5x20mm BHCS screws x1 (Spacer to Frame)
+- M5x40mm SHCS screw x1 (Mount part to Frame from where the rubber foot is)
+- M5x16mm BHCS screws x2 (Mount part bottom two holes to Frame)
+- M5x20mm BHCS screws x1 (Accent Spacer to Frame)
 
 See in the **Assembly folder** there are some notes on how i did put these things together :)
 
