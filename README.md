@@ -26,8 +26,8 @@ I made some chages to his design (was tailored for Voron 2.2 in ~ 2020)
 - Added skirts for V2.4 300mm including a rotating gear (pressure) mounted on the D-Shaft protruding out of Mount front (~ 3mm)
 
 I developed all those changes in **Fusion 360**
-The **CAD file** is too large so i uploaded it on Google Drive (lates update 11st July 2021)
-https://drive.google.com/drive/folders/1DQNbAXy60l3uwEx9qxdZTg94INP0bn9f?usp=sharing
+The **CAD file** is too large to store here 
+i uploaded it on Google Drive (lates update 11st July 2021) [Z Drive f3z archive](https://drive.google.com/drive/folders/1R-tB0uDWe6UOru6ewyngyY7uPnOx-Cvc?usp=sharing)
 
 **Z Gearbox** BOM
 _Quantity is for ONE (1) Gearbox_
